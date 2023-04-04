@@ -1,0 +1,10 @@
+{
+    "uuid": "yes-dad@github.com/lennard-m",
+    "name": "Yes Dad?",
+    "description": "Adds a fun widget to your panel for your daily dad joke needs.",
+    "shell-version": [
+        "43"
+    ],
+    "url": "https://github.com/lennard-m/gnome-yes-dad",
+    "version": 1
+}
